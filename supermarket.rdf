@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+	xmlns:dc="http://purl.org/dc/elements/1.1/" 
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+		
+		<rdf:Description rdf:about="https://www.1988mart.com/">
+			<dc:product rdf:resource="https://www.indofood.com/"/>
+			<dc:product rdf:resource="https://www.faber-castell.com/"/>
+			<dc:product rdf:resource="https://id.sharp/"/>
+			<dc:product rdf:resource="https://www.wardahbeauty.com/"/>
+			<dc:product rdf:resource="https://www.nevadaclothing.co/"/>
+			<dc:product rdf:resource="https://exsport.co.id/"/>
+			<dc:product rdf:resource="https://www.dettol.co.id/"/>
+			<dc:product rdf:resource="https://www.krisbow.com/"/>
+			<dc:product rdf:resource="https://kimiafarma.co.id/"/>
+			<dc:product rdf:resource="https://www.whiskasindonesia.com/"/>
+			<dc:product rdf:resource="https://ingcotools.id/"/>
+			<dc:product rdf:resource="https://www.toyskingdom.co.id/"/>
+			
+
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://www.indofood.com/">
+			<dc:title>Indomie</dc:title>
+			<dc:Description>Indomie merupakan produk mie instan favorit orang Indonesia bahkan dunia, mulai diproduksi sejak 9 September 1970 oleh Sanmaru Food Manufacturing. Terdapat dua jenis Indomie saat ini, yaitu Indomie goreng dan Indomie kuah</dc:Description>
+			<dc:image>https://www.eresep.com/media/images/produk/2020/11/18/indomierasarendang.jpg.1000x650_q85.jpg</dc:image>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://www.faber-castell.com/">
+			<dc:title>Crayon</dc:title>
+			<dc:Description>Crayon merupakan salah satu produksi alat tulis dari faber castle. Crayon faber berisi 24 warna berbeda dengan gradasi menarik. Terdapat pula alat penyambung krayon beserta temapt krayon yang dilengkapi dengan tali agar crayon mudah dibawa.</dc:Description>
+			<dc:image>https://faber-castell.co.id/cfind/thumbs/thumb/images/product/pl/700x700-pl/thumb_450_450_cover_contain_w700_h700_120090n.jpg.png</dc:image>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://id.sharp/">
+			<dc:title>TV</dc:title>
+			<dc:Description>Untuk design, tv merek sharp Membicarakan tentang desain, tiap-tiap orang tentunya akan mempunyai selera desainnya yang berbeda-beda. Namun, TV LED SHARP Aquos memiliki desain yang modern dan futuristik. Ukuran bezel  tipis dan penyangga kaki yang modern adalah desain favorit tiap-tiap orang.</dc:Description>
+			<dc:image>https://www.enservices.in/wp-content/uploads/2019/12/tornado-ed-3170-led-tv-32-inch-hd-with-1-usb-movie-and-2-hdmi.png</dc:image>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://www.wardahbeauty.com/">
+			<dc:title>Skincare</dc:title>
+			<dc:Description>eri skincare dari Wardah ini tergolong best-selling dan sangat cocok untuk kalian yang selama ini sedang sibuk WFH. Wardah Lightening Series dilengkapi dengan proteksi terhadap Blue Light yang mampu melindungi kulitmu dari paparan sinar gawai layaknya laptop ataupun handphone.</dc:Description>
+			<dc:image>https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/MTA-0080331/wardah_wardah-eyexpert-eye-make-up-remover--50-ml-_full02.jpg</dc:image>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://www.nevadaclothing.co/">
+			<dc:title>Pakaian</dc:title>
+			<dc:Description>Produk fashion Nevada sendiri, antara lain berupa kaos, sweater, jaket, baju anak, rok, dan aneka produk fashion lainnya. Untuk anda wanita dan remaja putri yang ingin bergaya kasual, anda bisa mencoba pakaian dengan brand ini.</dc:Description>
+			<dc:image>https://5.imimg.com/data5/DC/TD/MY-19062938/women-red-blazer-500x500.jpg</dc:image>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://exsport.co.id/">
+			<dc:title>Tas</dc:title>
+			<dc:Description>Exsport menyediakan beragam jenis tas, mulai dari backpack, sling bag, hingga travel bag. Untuk bersekolah dan kuliah, tentu saja Anda memerlukan tas yang nyaman dipakai, awet, serta tidak mudah rusak. Guna menjawab kebutuhan Anda, Exsport memiliki School dan College series. Sesuai dengan namanya, tas seri ini ditujukan untuk menunjang kegiatan pendidikan bagi pelajar.</dc:Description>
+			<dc:image>https://exsport.co.id/media/catalog/product/cache/680d12eb966458f1eb45b624821aa622/product/6/-/6-1_-_jpg_2000_result.jpg</dc:image>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://www.dettol.co.id/">
+			<dc:title>Antiseptik</dc:title>
+			<dc:Description>Dettol antiseptik cair merupakan antiseptik cair yang digunakan sebagai perlindungan dari penyakit yang disebabkan kuman. Cairan ini juga dapat digunakan untuk mempercepat penyembuhan luka, lecet, gigitan, sengatan serangga, membunuh kuman pada pakaian kotor dan sebagai disinfektan pada peralatan rumah tangga.</dc:Description>
+			<dc:image>https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/MTA-2890340/dettol_dettol-liquid-antiseptik-cair--95-ml-_full03.jpg</dc:image>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://www.krisbow.com/">
+			<dc:title>Oven</dc:title>
+			<dc:Description>Dikenal merek Krisbow yang memiliki kualitas bagus, Krisbow juga mempunyai oven kue listrik yang tak kalah favorit di pasaran. Sebagian besar oven listrik Krisbow menggunakan material stainless steel.</dc:Description>
+			<dc:image>https://images.tokopedia.net/img/cache/700/product-1/2020/4/7/97680995/97680995_5079c55c-b7ee-47da-a113-23e84b3f7f15_670_670.jpg</dc:image>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://kimiafarma.co.id/">
+			<dc:title>Obat Batuk</dc:title>
+			<dc:Description>OBH COMBI PLUS BATUK FLU merupakan obat batuk dengan kandungan OBH, Paracetamol, Ephedrine HCl, dan Chlorphenamine maleat yang digunakan untuk meredakan batuk disertai gejala-gejala flu seperti demam, sakit kepala, hidung tersumbat, dan bersin-bersin.</dc:Description>
+			<dc:image>https://hdmall.id/system/image_attachments/images/000/017/398/medium/obh-combi-batuk-plus-flu-anak-strawberry-60-ml-1.jpg</dc:image>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://www.whiskasindonesia.com/">
+			<dc:title>Makanan Kucing</dc:title>
+			<dc:Description>Whiskas memiliki makanan basah dan kering untuk kucing, bernutrisi tinggi dan berasal dari daging segar terbaik.</dc:Description>
+			<dc:image>https://cdn.onemars.net/sites/whiskas_id_98_2/image/whiskas-sea-ocean-fish-450g_1584084525530.png</dc:image>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://ingcotools.id/">
+			<dc:title>Bor</dc:title>
+			<dc:Description>INGCO ID6538 Bor Beton Listrik 13 mm merupakan bor listrik berbahanbesi yang didesain ergonomis, bor listrik yang dapat digunakan untuk mengebor dinding beton, besi, kayu, dan lain-lain.</dc:Description>
+			<dc:image>https://sc04.alicdn.com/kf/Hab02d759ff5045a2b1b0ad3d453fe563V.jpg</dc:image>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://www.indofood.com/">
+			<dc:title>Tayo Bus</dc:title>
+			<dc:Description>Mainan Bus Tayo warna bitu Dengan Lagu Tema Tayo Dan Bus Dihiasin Lampu 3D Yang Cantik , Anak-Anak Pasti Semakin Suka Sama bermain bus Tayo</dc:Description>
+			<dc:image>https://s0.bukalapak.com/img/00439424141/large/MAINAN_TAYO_BUS_KECIL_TAYO_THE_LITTLE_BUS_PULL_BACK_MAINAN_A.jpeg</dc:image>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://www.1988mart.com/">
+        <foaf:crew rdf:resource="https://www.instagram.com/erlincindini" />
+        <foaf:crew rdf:resource="https://www.instagram.com/salsabilaahmrh" />
+        
+    </rdf:Description>
+
+		<rdf:Description rdf:about="https://www.instagram.com/erlincindini">
+        <foaf:name>Erlin Cindini Manullang</foaf:name>
+        <foaf:nim>201401047</foaf:nim>
+        <foaf:img>https://cdn.kibrispdr.org/data/foto-tokoh-kartun-6.jpg</foaf:img>
+
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.instagram.com/salsabilaahmrh">
+        <foaf:name>Salsabila Humairah</foaf:name>
+        <foaf:nim>201401065</foaf:nim>
+        <foaf:img>https://fashionsista.co/wallpaper/wallpaper/20210830/deretan-gambar-animasi-lucu-kartun-muslimah-untuk-whatsapp-preview.jpg</foaf:img>
+        
+    </rdf:Description>
+
+</rdf:RDF>
