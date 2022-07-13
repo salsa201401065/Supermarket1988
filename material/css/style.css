@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;500&display=swap');
+body{
+	background-color: 	#FFFFFF;
+	font-family:'Dosis', sans-serif;
+	color: #000000;
+	font-size: 20px;
+}
+
+@media screen and (min-width:993px){
+.form-control {
+	width:345px;
+}
+}
+
+@media screen and (max-width:993px){
+.navbar-nav{
+	text-align: center;
+}
+}
+
+.carousel .carousel-item {
+  height: 400px;
+}
+.carousel img {
+  min-height: 100px;
+}
+
+/*kategori style*/
+.img-kategori{
+	width: 50px;
+}
+.img-kategori:hover{
+	transform: scale(1.2);
+}
+.row-container{
+	background-color: #E8E8E8;
+	margin: 0px;
+}
+/*kategori style*/
